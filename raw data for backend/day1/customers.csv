@@ -1,0 +1,30 @@
+customer_id,first_name,last_name,address,city,state,zip
+1,John,Doe,123 Elm St,Toronto,ON,M4B1B3
+2,Jane,Smith,456 Maple Ave,Ottawa,ON,K1A0B1
+3,Michael,Johnson,789 Oak Dr,Montreal,QC,H1A1A1
+4,Emily,Davis,101 Pine Rd,Calgary,AB,T2A0A1
+5,David,Wilson,202 Birch Blvd,Vancouver,BC,V5K0A1
+6,Emma,Clark,505 Cedar St,Halifax,NS,B3H0A1
+7,James,Martinez,606 Spruce Ln,Winnipeg,MB,R3C0A1
+8,Olivia,Garcia,707 Fir St,Edmonton,AB,T5A0A1
+9,William,Lopez,808 Redwood Dr,Victoria,BC,V8W0A1
+10,Ava,Anderson,909 Cypress Ave,Quebec City,QC,G1A0A1
+11,Alexander,Thomas,1010 Willow Rd,St. John's,NL,A1A0A1
+12,Isabella,Lee,1111 Poplar St,Fredericton,NB,E3B0A1
+13,Daniel,Harris,1212 Ash Blvd,Charlottetown,PE,C1A0A1
+14,Sophia,Young,1313 Beech Dr,Yellowknife,NT,X1A0A1
+15,Matthew,King,1414 Cedar Ln,Whitehorse,YT,Y1A0A1
+16,Charlotte,Scott,1515 Elm St,Iqaluit,NU,X0A0A1
+17,Joseph,Green,1616 Maple Ave,Regina,SK,S4P0A1
+18,Amelia,Adams,1717 Oak Dr,Saskatoon,SK,S7K0A1
+19,Christopher,Baker,1818 Pine Rd,Thunder Bay,ON,P7A0A1
+20,Mia,Nelson,1919 Birch Blvd,London,ON,N6A0A1
+21,Andrew,Mitchell,2020 Spruce Ln,Hamilton,ON,L8P0A1
+22,Harper,Roberts,2121 Fir St,Kitchener,ON,N2G0A1
+23,Joshua,Turner,2222 Redwood Dr,Windsor,ON,N9A0A1
+24,Evelyn,Phillips,2323 Cypress Ave,Kingston,ON,K7L0A1
+25,Daniel,Campbell,2424 Willow Rd,St. Catharines,ON,L2R0A1
+26,Abigail,Parker,2525 Poplar St,Barrie,ON,L4M0A1
+27,James,Evans,2626 Ash Blvd,Guelph,ON,N1H0A1
+28,Emily,Edwards,2727 Beech Dr,Brantford,ON,N3T0A1
+29,Michael,Collins,2828 Cedar Ln,Thunder Bay,ON,P7B0A1

@@ -1,0 +1,30 @@
+customer_id,first_name,last_name,address,city,state,zip
+59,John,Flores,5858 Maple Ave,Schomberg,ON,L0G0A1
+60,Olivia,Washington,5959 Oak Dr,Tottenham,ON,L0G0A1
+61,William,Butler,6060 Pine Rd,Alliston,ON,L9R0A1
+62,Ava,Simmons,6161 Birch Blvd,Angus,ON,L0M0A1
+63,Alexander,Foster,6262 Spruce Ln,Stayner,ON,L0M0A1
+64,Isabella,Gonzalez,6363 Fir St,Wasaga Beach,ON,L9Z0A1
+65,Daniel,Bryant,6464 Redwood Dr,Elmvale,ON,L0L0A1
+66,Sophia,Alexander,6565 Cypress Ave,Midland,ON,L4R0A1
+67,Matthew,Russell,6666 Willow Rd,Penetanguishene,ON,L9M0A1
+68,Charlotte,Griffin,6767 Poplar St,Victoria Harbour,ON,L0K0A1
+69,Joseph,Diaz,6868 Ash Blvd,Port McNicoll,ON,L0K0A1
+70,Amelia,Hayes,6969 Beech Dr,Waubaushene,ON,L0K0A1
+71,Christopher,Myers,7070 Cedar Ln,Coldwater,ON,L0K0A1
+72,Mia,Ford,7171 Elm St,Orillia,ON,L3V0A1
+73,Andrew,Hamilton,7272 Maple Ave,Gravenhurst,ON,P1P0A1
+74,Harper,Graham,7373 Oak Dr,Bala,ON,P0C0A1
+75,Joshua,Sullivan,7474 Pine Rd,Bracebridge,ON,P1L0A1
+76,Evelyn,Wallace,7575 Birch Blvd,Huntsville,ON,P1H0A1
+77,Daniel,Woods,7676 Spruce Ln,Burks Falls,ON,P0A0A1
+78,Abigail,Cole,7777 Fir St,Sundridge,ON,P0A0A1
+79,James,West,7878 Redwood Dr,South River,ON,P0A0A1
+80,Emily,Jordan,7979 Cypress Ave,North Bay,ON,P1B0A1
+81,Michael,Owens,8080 Willow Rd,Mattawa,ON,P0H0A1
+82,Elizabeth,Reynolds,8181 Poplar St,Sturgeon Falls,ON,P2B0A1
+83,David,Fisher,8282 Ash Blvd,Verner,ON,P0H0A1
+84,Sophia,Ellis,8383 Beech Dr,Field,ON,P0H0A1
+85,John,Harrison,8484 Cedar Ln,Temagami,ON,P0H0A1
+86,Olivia,Gibson,8585 Elm St,New Liskeard,ON,P0J0A1
+87,William,McDonald,8686 Maple Ave,Haileybury

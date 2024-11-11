@@ -1,0 +1,29 @@
+{
+    "name": "trigger_on_modification",
+    "properties": {
+        "annotations": [],
+        "runtimeState": "Started",
+        "pipelines": [
+            {
+                "pipelineReference": {
+                    "referenceName": "backend_to_bronze",
+                    "type": "PipelineReference"
+                },
+                "parameters": {
+                    "filename": "@triggerBody().fileName"
+                }
+            }
+        ],
+        "type": "BlobEventsTrigger",
+        "typeProperties": {
+            "blobPathBeginsWith": "/backend/blobs/",
+            "blobPathEndsWith": ".csv",
+            "ignoreEmptyBlobs": true,
+            "scope": "/subscriptions/76d5a7fd-5227-4872-8a78-e9e485e12e5e/resourceGroups/rg_abcbank/providers/Microsoft.Storage/storageAccounts/dlsaabcbank",
+            "events": [
+                "Microsoft.Storage.BlobCreated",
+                "Microsoft.Storage.BlobDeleted"
+            ]
+        }
+    }
+}

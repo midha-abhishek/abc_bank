@@ -1,0 +1,30 @@
+customer_id,first_name,last_name,address,city,state,zip
+30,Elizabeth,Stewart,2929 Elm St,Peterborough,ON,K9H0A1
+31,David,Sanchez,3030 Maple Ave,North Bay,ON,P1B0A1
+32,Sophia,Morris,3131 Oak Dr,Belleville,ON,K8N0A1
+33,John,Rogers,3232 Pine Rd,Timmins,ON,P4N0A1
+34,Olivia,Reed,3333 Birch Blvd,Orillia,ON,L3V0A1
+35,William,Cook,3434 Spruce Ln,Midland,ON,L4R0A1
+36,Ava,Morgan,3535 Fir St,Collingwood,ON,L9Y0A1
+37,Alexander,Bell,3636 Redwood Dr,Stratford,ON,N5A0A1
+38,Isabella,Murphy,3737 Cypress Ave,Woodstock,ON,N4S0A1
+39,Daniel,Bailey,3838 Willow Rd,Orangeville,ON,L9W0A1
+40,Sophia,Rivera,3939 Poplar St,Milton,ON,L9T0A1
+41,Matthew,Cooper,4040 Ash Blvd,Georgetown,ON,L7G0A1
+42,Charlotte,Richardson,4141 Beech Dr,Newmarket,ON,L3Y0A1
+43,Joseph,Cox,4242 Cedar Ln,Aurora,ON,L4G0A1
+44,Amelia,Howard,4343 Elm St,Bradford,ON,L3Z0A1
+45,Christopher,Ward,4444 Maple Ave,Keswick,ON,L4P0A1
+46,Mia,Brooks,4545 Oak Dr,Stouffville,ON,L4A0A1
+47,Andrew,Gray,4646 Pine Rd,Uxbridge,ON,L9P0A1
+48,Harper,James,4747 Birch Blvd,Port Perry,ON,L9L0A1
+49,Joshua,Bennett,4848 Spruce Ln,Beaverton,ON,L0K0A1
+50,Evelyn,Barnes,4949 Fir St,Sutton,ON,L0E0A1
+51,Daniel,Ross,5050 Redwood Dr,Pefferlaw,ON,L0E0A1
+52,Abigail,Henderson,5151 Cypress Ave,Mount Albert,ON,L0G0A1
+53,James,Jenkins,5252 Willow Rd,Queensville,ON,L0G0A1
+54,Emily,Perry,5353 Poplar St,Sharon,ON,L0G0A1
+55,Michael,Butler,5454 Ash Blvd,Holland Landing,ON,L9N0A1
+56,Elizabeth,Long,5555 Beech Dr,East Gwillimbury,ON,L9N0A1
+57,David,Patterson,5656 Cedar Ln,King City,ON,L7B0A1
+58,Sophia,Hughes,5757 Elm St,Nobleton,ON,L0G0A1
